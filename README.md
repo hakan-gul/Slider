@@ -1,4 +1,5 @@
 # Slider
 This is a basic slider project
 
-#Live
+# Live
+https://hakan-gul.github.io/Slider/
